@@ -35,7 +35,7 @@ From your shell or command line:
 
 All done!  Before moving on to the next step, you need to find the Client ID of your application.
 
-1. While still in the Azure portal, click the Configure tab of your application.
+1. While still in the Azure portal, Goto to Application Tab, click on the App Name, you will see the Configure tab of your application, clikc on it, you can see the Client ID.
 2. Find the Client ID value and copy it to the clipboard.
 
 
